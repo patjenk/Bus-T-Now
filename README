@@ -4,7 +4,7 @@ way to distribute MBTA bus schedules.
 Source code available at http://github.com/patjenk/Bus-T-Now/tree/master
 
 Future ideas:
-* JSON and XML files
+* Done! Product JSON and XML files
 * REST API
 * Web app to display the next time a bus is stopping near you
 * IPhone app to display the next time a bus is stopping near you

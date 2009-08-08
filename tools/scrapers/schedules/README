@@ -1,0 +1,9 @@
+Written by Patrick Jenkins on 8/7/2009. This tool reads in a list of bus route
+names from a file named 'bus_routes.txt' which needs to be in the current
+directory. You can build this file by running the tool in 
+tools/scrapers/routers/. When you run the script in this directory two files 
+will be created containing the bus schedules for the MBTA. The files that are
+produced are named routes.xml and routes.json.
+
+This tool uses simplejson for JSON serialization and xml.marshal.generic for
+XML serialization.
