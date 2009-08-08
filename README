@@ -1,0 +1,10 @@
+Written by Patrick Jenkins on 8/7/2009 with the goal to create a better
+way to distribute MBTA bus schedules.
+
+Source code available at http://github.com/patjenk/Bus-T-Now/tree/master
+
+Future ideas:
+* JSON and XML files
+* REST API
+* Web app to display the next time a bus is stopping near you
+* IPhone app to display the next time a bus is stopping near you
